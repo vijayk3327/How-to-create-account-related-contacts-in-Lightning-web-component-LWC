@@ -120,10 +120,11 @@ export default class CreateConRelAcc extends LightningElement {
 
 
 <br/><br/>
-Create Lightning Web Component Meta XML
-<strong style="color:#ff0000;">Step 3) </strong> Create Lightning Web Component : createConRelAcc.js-meta.xml
 
-   <?xml version="1.0" encoding="UTF-8"?>
+<strong style="color:#ff0000;">Step 3) </strong> Create Lightning Web Component Meta XML
+<br/>
+
+<?xml version="1.0" encoding="UTF-8"?>
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>55.0</apiVersion>
     <isExposed>true</isExposed>
