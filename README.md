@@ -2,7 +2,7 @@
 
 <p>Hey guys, today in this post we are going to learn about How to <strong>Create Account With Contact</strong> In LWC – Lightning Web Component Salesforce.</p>
 
-<a href="https://www.w3web.net/create-account-with-contact-in-lwc/">Go to more details about this article__  <b><i>www.w3web.net</i></b></a><br/><br/>
+<a href="https://www.w3web.net/create-account-with-contact-in-lwc/">Get Code from Live Demo of this Article__  <b><i>www.w3web.net</i></b></a><br/><br/>
 
 
 <strong style="color:#ff0000;">Step 1) </strong> createConRelAcc.html [Lightning Web Component HTML]
